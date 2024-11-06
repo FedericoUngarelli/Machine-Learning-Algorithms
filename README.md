@@ -1,5 +1,2 @@
-Here the content of each file:
-
-- MY_LR: Linear Regression class
-- MY_LOR: Logistic Regression class
-- MY_NB: Naive Bayes class 
+This repository contains Python implementations of popular machine learning algorithms, all coded from scratch. 
+In addition, the PDF discusses key insights and interesting findings encountered during development.
